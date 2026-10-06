@@ -1,1 +1,2 @@
-# github-student17
+# Github-student17
+Pierwsze publiczne reposytorium
